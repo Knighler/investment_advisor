@@ -1,4 +1,4 @@
-# 💰 Investment Advisor: Gold vs USD (Phase 1)
+# 💰 Investment Advisor: Gold vs USD 
 
 This project is a simple investment advisor that compares the potential return on investment (ROI) between **gold** and **USD (cash)** using historical gold price data (XAU/USD). It predicts future gold prices using a linear regression model and calculates ROI for both options over the next 3 years.
 
